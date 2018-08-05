@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait1", "AsyncAwait1\AsyncAwait1.csproj", "{50E992FA-5F34-4D91-B4CA-F97D3B83F8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel", "Parallel\Parallel.csproj", "{41E481EF-4959-419F-98D7-AEAEB9CAEF5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{50E992FA-5F34-4D91-B4CA-F97D3B83F8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50E992FA-5F34-4D91-B4CA-F97D3B83F8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50E992FA-5F34-4D91-B4CA-F97D3B83F8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E481EF-4959-419F-98D7-AEAEB9CAEF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E481EF-4959-419F-98D7-AEAEB9CAEF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E481EF-4959-419F-98D7-AEAEB9CAEF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E481EF-4959-419F-98D7-AEAEB9CAEF5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
